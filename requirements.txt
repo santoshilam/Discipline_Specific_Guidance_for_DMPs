@@ -1,0 +1,8 @@
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+traitlets
+ipython_genutils
+jupyter-book
+matplotlib

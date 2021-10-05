@@ -1,0 +1,16 @@
+#######################################################################################
+# Book settings
+title: Data Steward book of knowledge
+author: "4TU Community"
+copyright: "2021"
+
+#######################################################################################
+# Launch button settings
+repository: 
+    url: https://github.com/nzr/use-cases
+
+#######################################################################################
+# Execution settings
+execute:
+  execute_notebooks         : off  #Must be one of ("auto", "force", "cache", "off")
+
