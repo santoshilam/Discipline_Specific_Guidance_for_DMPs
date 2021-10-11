@@ -12,5 +12,7 @@ repository:
 #######################################################################################
 # Execution settings
 execute:
-  execute_notebooks         : off  #Must be one of ("auto", "force", "cache", "off")
+  execute_notebooks         : "off"  #Must be one of ("auto", "force", "cache", "off")
 
+only_build_toc_files: true
+exclude_patterns            : [_build, Thumbs.db, .DS_Store]
