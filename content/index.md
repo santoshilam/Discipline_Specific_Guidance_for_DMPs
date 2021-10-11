@@ -1,5 +1,6 @@
 # Data Steward book of knowledge
 
-This is the main page.
+## Acknowledgements 
 
+Who do we need to contribute and how best to do this?
 
