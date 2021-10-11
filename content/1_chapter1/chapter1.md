@@ -8,5 +8,5 @@ lorem ipsum
 
 lorem ipsum
 
-![alt text](Isolated.png "Title")
+![alt text](index.png "Title")
 
