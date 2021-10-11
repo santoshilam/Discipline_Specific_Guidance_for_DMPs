@@ -10,3 +10,9 @@ lorem ipsum
 
 ![alt text](index.png "Title")
 
+above
+ 
+----
+
+below
+
