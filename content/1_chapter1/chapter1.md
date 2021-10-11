@@ -36,5 +36,7 @@ Local community engagement
 - sensitive personal data 
 
 ## Tags 
+- [human research](https://nzr.github.io/DS-BOK/search.html?q=human+research).
+- [Far away land](https://nzr.github.io/DS-BOK/search.html?q=far+away+land).
 
 Human research, Far away lands
