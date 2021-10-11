@@ -7,3 +7,6 @@ lorem ipsum
 ## Section 1.2
 
 lorem ipsum
+
+![alt text](Isolated.png "Title")
+
