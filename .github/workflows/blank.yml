@@ -45,4 +45,10 @@ jobs:
         run: |
          jupyter-book build content/ 
          echo "build done"
+         
+      - name: push to GHP
+        run: |
+         git push
+         ghp-import -n -p -f _build/html
+         echo "Website pushed to gh-pages branch"
           

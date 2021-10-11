@@ -1,6 +1,0 @@
-root: index
-entries:
-- file: 0_intro/intro
-- file: 1_chapter1/chapter1
-- file: 2_chapter2/chapter2
-

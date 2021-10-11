@@ -6,3 +6,4 @@ traitlets
 ipython_genutils
 jupyter-book
 matplotlib
+ghp-import
