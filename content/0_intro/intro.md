@@ -1,15 +1,42 @@
 # Introduction
 
-## Section 1.1
+<insert brief introduction about the project and working group aims and objectives> 
 
-lorem ipsum - We are here! Changing something else...
-Working from desktop
+## What is this book about? 
 
-## Section 1.2
+<insert text>
+This book provides a collection of disciplinary research projects from various faculties and departments within 4TU partner organisation; Delft University of Technology, Eindhoven University of Technology and the University of Twente. 
 
-lorem ipsum
+## Who is this book for? 
 
-I am also making a change here - Connie 
+Data stewards, data support professionals and researchers 
+
+- Facilitate peer-to-peer learning among data stewards through the collection of unique and unusual (non-standard!) use cases. 
+- Identify similarities and differences in research data management practice across diverse research disciplines 
+- Will allow data stewards to provide advice in a more comprehensive manner (rather than an over-simplified overview?) 
+- Can be reused/modified in an educational context to inform students about various aspects of RDM
+- Can be combined with an RDM checklist 
+- Can be used to form the basis of guidance for data stewards and researchers.
+
+## Why read this book? 
+  
+<insert text> Can we add something about why this book is important? What does it offer the community? 
+  
+## How can you use this book? 
+  
+- Can we suggest how the case studies should be navigated and read? 
+- Could we include an RDM checklist at the end? 
+- How could the book be used in an educational setting? 
+  
+## How was this book created? 
+  
+<insert some text about how it was created, link to a blog post on the community website?>
+  
+## How to contribute!
+  
+We'd love to expand our collection of use cases. If you have an interesting project you'd like to add... xxx
+  
+    
 
 Quotes: 
 
