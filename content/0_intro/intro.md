@@ -2,7 +2,7 @@
 
 ## Section 1.1
 
-lorem ipsum
+lorem ipsum - Connie is here!
 
 ## Section 1.2
 
