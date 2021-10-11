@@ -8,7 +8,7 @@ The project aims to create inclusive and resilient dwelling clusters for urban r
 - Collaborate with practitioners: research outcome as pilot project for local development
 
 
-## data collection
+## Data collection
 - Drone images
 - interview data
 
@@ -37,19 +37,4 @@ Local community engagement
 
 ## Tags 
 
-- Human research
-- Far away lands
-
-
-
-
-lorem ipsum
-
-![alt text](index.png "Title")
-
-above
- 
-----
-
-below
-
+Human research, Far away lands
