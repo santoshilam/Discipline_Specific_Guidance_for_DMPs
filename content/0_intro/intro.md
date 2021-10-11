@@ -6,6 +6,10 @@ lorem ipsum - We are here! Changing something else...
 
 ## Section 1.2
 
+lorem ipsum
+
+I am also making a change here - Connie 
+
 Quotes: 
 
 > Of all the things I've lost 
