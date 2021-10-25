@@ -40,12 +40,16 @@ Confidential (technical) information given to the student by the company was mad
 
 Given that the student will work most of his time inside the company, and that the data used for the thesis is also working documents, the storage solution of the company was deemed sufficient. 
 
-The student also had a shared folder, accessible from outside the University, but secured and managed by the surpervisor. 
+A storage solution, within the university, was made available to the student and the supervisors (all of them), ensuring that the most relevant information for the MSc thesis work was accessible to all relevant people. 
 
 ### Legal 
 
+The student's work contract can be of use when determining intellectual property rights on the data created during the project. However, in this case, everyone agreed that most of the collected information was going to be confidential (commercially sensitive). 
+
 ## Advice (process)
 
+Because the summary of the transcripts would be published, it is necessary to follow the internal university protocols regarding personal data management. 
+Despite participating in meeting organized by the company, the student was requested to create consent forms, informing participants what would happen to the data they provide (public archival), and who would have access to it (both the university _and_ the company supervisor)
 
 ## Tags 
 - [human research](https://nzr.github.io/DS-BOK/search.html?q=human+research).
