@@ -51,6 +51,8 @@ The student's work contract can be of use when determining intellectual property
 Because the summary of the transcripts would be published, it is necessary to follow the internal university protocols regarding personal data management. 
 Despite participating in meeting organized by the company, the student was requested to create consent forms, informing participants what would happen to the data they provide (public archival), and who would have access to it (both the university _and_ the company supervisor)
 
+In this instance, the most important thing was to ensure that consent was granted for publication of the interview summaries, with approval from the host company.
+
 ## Tags 
 - [human research](https://nzr.github.io/DS-BOK/search.html?q=human+research).
 - [Far away land](https://nzr.github.io/DS-BOK/search.html?q=far+away+land).
