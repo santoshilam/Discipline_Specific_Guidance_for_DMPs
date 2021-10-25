@@ -33,7 +33,7 @@ Since the researcher has double affiliation (the UMC as the first affiliation an
 
 ### Privacy 
 
-  This project will deal with personal data, therefore, researchers should comply with GDPR. At UT, anyone who processes personal data should register the personal data in a GDPR form which will be checked by the university data protection officer.
+  In this project, personal data is going to be processed, therefore, researchers should comply with the General Data Protection Regulation (GDPR; the European privacy law). At UT, anyone who processes personal data should register the personal data in a GDPR form which will be checked by the university data protection officer. **_Question for Judith: do researchers have to use informed consent for data collection?_**
   
   - GDPR
   - Privacy and security issues are addressed in the DMP
