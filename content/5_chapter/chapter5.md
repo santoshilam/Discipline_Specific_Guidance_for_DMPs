@@ -1,61 +1,55 @@
-# Chapter 5: Template test
+# Chapter 5: MSc student thesis - An commercial internship project involving personal data collection (2) 
 
 ## Researcher's voice
 
-The project aims to create inclusive and resilient dwelling clusters for urban resettlement in Kathmandu (Nepal) and establish a living lab model to develop transparent and integrated methodology of analysis, planning and design. This project will 
-- Employ a participatory planning and design approach and survey and map social and spatial living patterns of residents from different urban conditions (traditional neighborhood, slum, urban resettlement). 
-- Support a new MSc studio: Masters students will carry out field research to the project, as part of their study
-- Collaborate with practitioners: Research outcome as pilot project for local development
+This project involves a Masters student who will run several interviews as part of an internship project. The interviewees are employees of a company, it's business partners and  customers/prospective customers. This project aims to gather information from interviewees. The data will be used internally by the company and includes information about activities conducted by the Masters student. The data will also be used as part of the Masters student's thesis (public)
 
 ## Data perspective
 
 ### Data collection
 
-In this project, the research team expect to collect the following types of data: 
-- Terrain data: 
-  - Drone images
-  - Maps of the area
-  - Other land survey information
-  
-- Interview data
-  - Audio recording
-  - Interview notes
-  - Transcripts of the interviews
+- A collection of interviews conducted as part of the company's activities
+- Notes and summary documents (transcripts) - _Will there also be recordings? _
 
 ### Ethics perspective
 
-Given the nature of the target population (resettelment policies), it is considered in this project, that participants from the general population is a ``risk'' population. 
-The interview data is to be collected by the research team, but only aggregated information would be shared beyond the initial core team. 
-
-Because the research takes place in a foreign country, specific arrangements must be put in place to guarantee that the interviewees can provide an ``informed'' consent - the researchers must inform the participants in language they understand. 
-
-It may be that participants are not able/willing to sign forms, nor provide their names. The procedure for collecting consent should be outlined by reviewed by the appropriate committee. 
+- Informed consent from interviewees will be required.
 
 ### Privacy 
 
-- Outside of the European Economic Area (EEA) 
-- Sensitive personal data 
+This is a professional interview so privacy risks are minimal. Personal data are not recorded beyond what is needed to conduct the interviews. 
+_Do we need to include what will happen to any personal data that is collected? Or does the company take care of this? 
 
 ### Data sharing
 
-- Internal sharing among international research and industry partners. 
-- Sharing with local governmental agencies
+- Only within the research group for summary
+- Personal data remains in the company
 
 ## Solutions & advice
 
 ### Data storage
-- Storage location accessible by external partners
-- Access control 
-- Project website/blog with open and closed communication channel
+
+Data is stored internally by the company. 
 
 ### Legal 
-- Ownership of student design
-- Intelletcual Property Rights (IPR) of pilot project outcome
+
+- GDPR responsibility ?
 
 ## Advice (process)
 
-## Tags 
-- [human research](https://nzr.github.io/DS-BOK/search.html?q=human+research).
-- [Far away land](https://nzr.github.io/DS-BOK/search.html?q=far+away+land).
+- ... 
+- ... 
+- ... 
 
-Human research, Far away lands
+## Tags 
+
+- [Living lab] (https://nzr.github.io/DS-BOK/search.html?)
+- [Field study] (https://nzr.github.io/DS-BOK/search.html?)
+- [Student education] (https://nzr.github.io/DS-BOK/search.html?)
+- [Collaboration with industry] (https://nzr.github.io/DS-BOK/search.html?)
+- [International (outside EU)] (https://nzr.github.io/DS-BOK/search.html?)
+- [Interview and observational] (https://nzr.github.io/DS-BOK/search.html?)
+- [Citizen science (engagement of local community)] (https://nzr.github.io/DS-BOK/search.html?)
+- [Personal data] (https://nzr.github.io/DS-BOK/search.html?)
+- [Informed consent] (https://nzr.github.io/DS-BOK/search.html?)
+- [Multilingual data] (https://nzr.github.io/DS-BOK/search.html?)
