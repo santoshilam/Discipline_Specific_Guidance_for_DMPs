@@ -16,6 +16,7 @@ In this project, the research team expect to collect the following types of data
   - Drone images
   - Maps of the area
   - Other land survey information
+  
 - Interview data
   - Audio recording
   - Interview notes
@@ -32,7 +33,7 @@ It may be that participants are not able/willing to sign forms, nor provide thei
 
 ### Privacy 
 
-- Outside of the EEA 
+- Outside of the European Economic Area (EEA) 
 - Sensitive personal data 
 
 ### Data sharing
@@ -49,7 +50,7 @@ It may be that participants are not able/willing to sign forms, nor provide thei
 
 ### Legal 
 - Ownership of student design
-- IPR of pilot project outcome
+- Intelletcual Property Rights (IPR) of pilot project outcome
 
 ## Advice (process)
 
