@@ -22,16 +22,18 @@ In this project, the research team expects to collect the following types of dat
 
 ### Ethics perspective
 
-According to the Wet medischp-wetenschappelijke onderzoek met mensen act (WMO), this project does medical research involving humans, therefore, needs to be assessed by an accredited METC in advance (before collecting data). _Quick comment for Judith Brands: Could you check if this explanation is ok?_
+According to the Wet medischp-wetenschappelijke onderzoek met mensen act (WMO), medical research involving humans should be assessed by an accredited METC or a CCMO in advance (before collecting data). **_Question for Judith Brands: Could you check if this explanation is ok? Please add more info about when to choose a METC if possible_**
 
-
+Since the researcher has double affiliation (the UMC as the first affiliation and the university as the second), it is important to determine the ownership of the data in advance. This can be specified in a contract between the UMC and the university. **_Question for Judith Brands: Judith, is this true? _**
+  
   - personal data 
   - ownership
   - METC
-  - What DMP?
+  - What DMP? **_Question for Judith Brands: I'm not sure what this means? _**
 
 ### Privacy 
 
+  This project will deal with personal data, therefore, researchers should comply with GDPR.  
   - GDPR
   - Privacy and security issues are addressed in the DMP
 
