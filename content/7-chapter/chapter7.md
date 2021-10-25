@@ -60,15 +60,14 @@ In this project, the research team expect to collect the following types of data
 
 ## Tags
 
-  Medical health data;
-  UMC uni is second affiliation (cross institutional collaboration - double affiliation);
-  data transfe;
-  ethics (personal data);
-  what DMP;
-  hospital have their own?;
-  clinical study;
-  retrospective study;
-  pseudonymised data;
-  large volumes of data;
-  contracts
+ - [Medical health data](https://nzr.github.io/DS-BOK/search.html?q=Medical+health+data);
+ - [Double affiliation](https://nzr.github.io/DS-BOK/search.html?q=double+affiliation);
+ - [Data tansfer](https://nzr.github.io/DS-BOK/search.html?q=data+transfer);
+ - [Personal data](https://nzr.github.io/DS-BOK/search.html?q=personal+data);
+ - [DMP](https://nzr.github.io/DS-BOK/search.html?q=DMP);
+ - [Personal data](https://nzr.github.io/DS-BOK/search.html?q=personal+data);
+ - [Clinical study](https://nzr.github.io/DS-BOK/search.html?q=clinical+study);
+ - [Pseudonymised data](https://nzr.github.io/DS-BOK/search.html?q=pseudonymised+data);
+ - [Large volume of data](https://nzr.github.io/DS-BOK/search.html?q=large+volume+of+data); 
+ - [Contracts](https://nzr.github.io/DS-BOK/search.html?q=contracts); 
 
