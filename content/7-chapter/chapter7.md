@@ -1,1 +1,1 @@
-# This is chapter 7
+# Chapter 7
