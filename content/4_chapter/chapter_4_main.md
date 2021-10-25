@@ -38,9 +38,9 @@ Confidential (technical) information given to the student by the company was mad
 
 ### Data storage
 
-Given that the student will work most of his time inside the company, and that the data used for the thesis is also working documents, the storage solution of the company was deemed sufficient. 
+Given that the student will work most of his time inside the company, and that the data used for the thesis is also company documents, the storage solution of the company was deemed sufficient. 
 
-A storage solution, within the university, was made available to the student and the supervisors (all of them), ensuring that the most relevant information for the MSc thesis work was accessible to all relevant people. 
+A storage solution, within the university, was made available to the student and the supervisors (all of them), ensuring that the most relevant information for the MSc thesis work was accessible to all relevant people. It was left to the student to ensure that this shared storage contained the right documents.
 
 ### Legal 
 
