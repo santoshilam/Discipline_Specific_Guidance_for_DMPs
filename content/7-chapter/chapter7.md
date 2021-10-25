@@ -1,5 +1,5 @@
 # Chapter 7: Use Case: Tracer update
-Researcher's voice
+## Researcher's voice
 
 This project involves a researcher working at an UMC exploring tracer uptake in patients with cancer (retrospective)
 This project will generate: 
@@ -7,8 +7,10 @@ This project will generate:
   - tracer outcome
 
 
-Data perspective
-Data collection
+## Data perspective
+
+
+### Data collection
 
 In this project, the research team expect to collect the following types of data:
 
@@ -18,25 +20,26 @@ In this project, the research team expect to collect the following types of data
   - Imaging data
 
 
-Ethics perspective
+### Ethics perspective
 
   - personal data 
   - ownership
   - METC
   - What DMP?
 
-Privacy
+### Privacy 
 
   - GDPR
   - Privacy and security issues are addressed in the DMP
 
 
-Data sharing
+### Data sharing
 
-  UT
+  - UT
 
-Solutions & advices
-Data storage
+## Solutions & advices
+
+### Data storage
 
   - UMC (not University)
   - Security
@@ -45,14 +48,18 @@ Data storage
   - Large amount of data
 
 
-Legal
+### Legal 
 
   - Data archiving (FAIR) 
   - Double affiliation
 
 
-Advice (process)
-Tags
+## Advice (process)
+
+
+
+## Tags
+
   Medical health data;
   UMC uni is second affiliation (cross institutional collaboration - double affiliation);
   data transfe;
