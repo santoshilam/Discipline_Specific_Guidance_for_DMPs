@@ -1,67 +1,42 @@
-# Introduction
+# Chapter 1: Living Lab in Katmandu
 
-## Section 1.1
+## Overview
 
-lorem ipsum - We are here! Changing something else...
-
-## Section 1.2
-
-lorem ipsum
-
-I am also making a change here - Connie 
-
-Quotes: 
-
-> Of all the things I've lost 
-> I miss my mind the most. - Mark Twain
-
-Some lists: 
-- Item 1
-  - Sub-item 1
-  - Sub-item 2
-- Item 2
-  - Sub-item 1
-
-Link to ex
-[Stack Abuse](http://stackabuse.com "Stack Abuse Title")
-
-Test text :) 
-
-Quotes: 
-
-> Of all the things I've lost 
-> I miss my mind the most. - Mark Twain
-
-Some lists: 
-- Item 1
-  - Sub-item 1
-  - Sub-item 2
-- Item 2
-  - Sub-item 1
-
-Link to ex
-[Stack Abuse](http://stackabuse.com "Stack Abuse Title")
-
-Making a point!
-
-_This is emphasized text!_
-
-__This is strong text!__
-
-*This is emphasized text!*
-
-**This is strong text!**
+The project aims to create inclusive and resilient dwelling clusters for urban resettlement in Kathmandu (Nepal) and establish a living lab model to develop transparent and integrated methodology of analysis, planning and design. This project will 
+- Employ a participatory planning and design approach and survey and map social and spatial living patterns of residents from different urban conditions (traditional neighborhood, slum, urban resettlement). 
+- Support a new MSc studio: master students will carry out field research to the project, as part of their study
+- Collaborate with practitioners: research outcome as pilot project for local development
 
 
-Inserting an image. 
+## Data collection
+- Drone images
+- interview data
 
-![My Alt Text](/path/to/my/pic.jpg "My Optional Title Text")
+## Data storage
+- Storage location accessible by external partners
+- Access control 
+- Project website/blog with open and closed communication channel
 
-Warning! You must upload your image to github first, put it in the same chapter folder. The path can then be: name_of_my_image.png (or similar). 
+## Data sharing
 
-And a table: 
+- Internal sharing among international research and industry partners
+- Sharing with local governmental agencies
 
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+## Ethics
+Local community engagement
+
+## Legal 
+
+- Ownership of student design
+- IPR of pilot project outcome
+
+## Privacy 
+
+- Outside of the EEA 
+- sensitive personal data 
+
+## Tags 
+- [human research](https://nzr.github.io/DS-BOK/search.html?q=human+research).
+- [Far away land](https://nzr.github.io/DS-BOK/search.html?q=far+away+land).
+
+Human research, Far away lands
