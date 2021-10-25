@@ -1,4 +1,4 @@
-# Chapter 7: Use Case: Tracer update
+# Chapter 7: Tracer update
 ## Researcher's voice
 
 This project involves a researcher working at an UMC exploring tracer uptake in patients with cancer (retrospective)
