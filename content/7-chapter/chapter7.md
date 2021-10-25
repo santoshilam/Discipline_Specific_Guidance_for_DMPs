@@ -12,7 +12,7 @@ This project will generate:
 
 ### Data collection
 
-In this project, the research team expect to collect the following types of data:
+In this project, the research team expects to collect the following types of data:
 
   - pseudonymised data
   - medical history (EPD)
@@ -21,6 +21,9 @@ In this project, the research team expect to collect the following types of data
 
 
 ### Ethics perspective
+
+According to the Wet medischp-wetenschappelijke onderzoek met mensen act (WMO), this project does medical research involving humans, therefore, needs to be assessed by an accredited METC in advance (before collecting data). _Quick comment for Judith Brands: Could you check if this explanation is ok?_
+
 
   - personal data 
   - ownership
