@@ -1,5 +1,4 @@
-# Chapter 4 : Master thesis work, interview in a company
-
+# Case study 4 : Master thesis work, interview in a company
 
 ## Researcher's voice
 
