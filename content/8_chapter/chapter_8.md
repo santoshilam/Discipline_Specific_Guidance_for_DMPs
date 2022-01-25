@@ -1,5 +1,7 @@
 # Case study 8: Cyber Security
 
+Author: Santosh Ilamparuthi
+
 ## Researcher's voice
 
 Research: Machine learning for cyber security
