@@ -1,4 +1,4 @@
-# Chapter 9: Cyber Security
+# Chapter 8: Cyber Security
 
 ## Researcher's voice
 
