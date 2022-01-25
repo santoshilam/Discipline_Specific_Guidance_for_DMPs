@@ -1,4 +1,4 @@
-# Chapter 2 : Large Scale Survey
+# Case study 2 : Large Scale Survey
 
 
 ## Researcher's voice
