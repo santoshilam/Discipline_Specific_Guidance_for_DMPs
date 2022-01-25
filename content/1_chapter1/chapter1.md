@@ -1,5 +1,7 @@
 # Case study 1: Living Lab in Katmandu
 
+Author: Yan Wang 
+
 ## Researcher's voice
 
 The project aims to create inclusive and resilient dwelling clusters for urban resettlement in Kathmandu (Nepal) and establish a living lab model to develop transparent and integrated methodology of analysis, planning and design. This project will 
