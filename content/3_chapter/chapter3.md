@@ -2,13 +2,13 @@
 
 Author: Yan Wang 
 
-## Researcher's voice
+## Project background
 
 This project aims to assess important elements in a combined working/living environment during the pandemic and create customized design for different user groups. This project will adopt a combined participatory approach in data collection and design of working/living environment: 
 - Collect social media images of working/living environment, online focus group/survey. 
 - Iterative design/evaluation process of the working/living environment via participatory virtual reality (VR) experiment.
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
@@ -16,7 +16,7 @@ This project aims to assess important elements in a combined working/living envi
 - Online focus group session (recording/transcripts)
 - VR models and testing results
 
-### Ethics perspective
+### Ethics 
 
 - Safety of VR experiment
 - Human participation vs (no) personal data
@@ -25,13 +25,13 @@ This project aims to assess important elements in a combined working/living envi
 
 - Protection of personal data (images, focus group)
 
-### Data sharing
+### Data sharing _should we have data storage and sharing together for each case study?_
 
 - Public report with visuals 
 - Public display of designs (copyrighted)
 
 
-## Solutions & advices
+## Solutions & advice
 
 ### Data storage
 
@@ -41,7 +41,6 @@ This project aims to assess important elements in a combined working/living envi
 
 - Legal ground of social media data collection
 - Design copyright
-
 
 ## Advice (process)
 
