@@ -1,5 +1,6 @@
 # Case study 2 : Large Scale Survey
 
+Author: Nicolas Dintzner
 
 ## Researcher's voice
 
