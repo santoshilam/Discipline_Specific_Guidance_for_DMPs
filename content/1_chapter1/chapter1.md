@@ -50,11 +50,11 @@ It may be that participants are not able/willing to sign forms, nor provide thei
 
 The research team collects various types of personal data, such as the locations, household compositions, financial information and health conditions and so on. That means that sensitive personal data will be collected and processed. This research data and the outcomes of the research will be shared with the local partners. Because the location of the community is in a country outside the EEA , special arrangements are needed for the data transfer and its protection. 
 
-### Data sharing
+### Data storage and sharing
 
 All the research data is shared within the project consortium which include international research and industry partners. The research outcome is planned to be shared with the local governmental agencies who will implement the design into concrete construction projects. Students will join the research team in working with the local community and contribute to the research data processing. 
 
-## Solutions & advice
+## Solutions and advice
 
 The following has been proposed to the research team to ensure good data management throughout the project lifecycle.
 
