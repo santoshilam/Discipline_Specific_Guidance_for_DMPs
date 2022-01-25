@@ -1,6 +1,4 @@
-# Data stewardship use cases
-
-## Acknowledgements 
+# Acknowledgements
 
 ### Authors
 
