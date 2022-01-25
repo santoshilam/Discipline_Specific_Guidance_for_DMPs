@@ -1,4 +1,4 @@
-# Chapter 6: Living lab in metropolitan area. 
+# Case study 6: Living lab in metropolitan area. 
 
 ## Researcher's voice
 
