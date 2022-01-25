@@ -1,4 +1,4 @@
-# Chapter 3: Design of working/living environment 
+# Case study 3: Design of working/living environment 
 
 ## Researcher's voice
 

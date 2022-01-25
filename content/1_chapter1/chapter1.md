@@ -1,4 +1,4 @@
-# Chapter 1: Living Lab in Katmandu
+# Case study 1: Living Lab in Katmandu
 
 ## Researcher's voice
 
