@@ -1,5 +1,7 @@
 # Case study 5: MSc student thesis - An commercial internship project involving personal data collection (2) 
 
+Author: Nicolas Dintzner
+
 ## Researcher's voice
 
 This project involves a Masters student who will run several interviews as part of an internship project. The interviewees are employees of a company, it's business partners and  customers/prospective customers. This project aims to gather information from interviewees. The data will be used internally by the company and includes information about activities conducted by the Masters student. The data will also be used as part of the Masters student's thesis (public)
