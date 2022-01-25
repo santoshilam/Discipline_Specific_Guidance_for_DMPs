@@ -1,8 +1,6 @@
-# Data stewardship use cases
+# Acknowledgements 
 
-## Acknowledgements 
-
-### Authors
+## Authors
 
 | Author | Affiliation| Orcid |
 |--------------|:-----:|-----------:|
@@ -13,7 +11,7 @@
 | Yan Wang | Delft University of Technology | 0000-0002-6317-7546  |
 | Qian Zhang| University of Twente | 0000-0003-4591-7755 |
   
-### Editors
+## Editors
 
 | Editor | Affiliation| Orcid |
 |--------------|:-----:|-----------:|
@@ -26,7 +24,7 @@
 | Qian Zhang| University of Twente | 0000-0003-4591-7755 |
   
 
-### Case study contributors
+## Case study contributors
 
 | Author | Affiliation| Orcid |
 |--------------|:-----:|-----------:|
