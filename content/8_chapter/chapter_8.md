@@ -1,4 +1,4 @@
-# Chapter 8: Cyber Security
+# Case study 8: Cyber Security
 
 ## Researcher's voice
 
