@@ -2,7 +2,7 @@
 
 Author: Yan Wang
 
-## Researcher's voice
+## Project background
 
 The researcher is studying bike theft in the Netherlands. 
 
@@ -18,14 +18,14 @@ The research is then collecting the following information - for each bike:
 
 The process shall continue until tracking devices break down, or run out battery.
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
 The data collection process involves 24/7 monitoring of the bikes, requiring the appropriate infrastructure. 
 The amount of data collected shouldn't be too big (within the range of GB). 
 
-### Ethics perspective
+### Ethics 
 
 This type of activities implies monitoring human activities without participant's (bike thieves) knowledge of it. This count as "deception", and therefore may require additional review or document for the institutional review board. 
 
@@ -40,7 +40,7 @@ Because of the sensitive nature of the collected data (semi-criminal data), a re
 
 Additionally, since the data is not collected directly by the university, but the partner, a data transfer agreement must be put in place - since, without having much personal detail about bike thieves, we do track their location through several days - and hence, are in a position to re-identify the individual with minimal effort. 
 
-### Data sharing
+### Data sharing _data storage and sharing?_
 
 Data will be shared between the partner and the university. 
 The information that will be made publicly available will be aggregated data (meta-level report). Locations will be ``blurred'' in the report. 

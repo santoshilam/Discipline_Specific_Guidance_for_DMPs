@@ -1,19 +1,19 @@
-# Case study 5: MSc student thesis - A commercial internship project involving personal data collection (2) 
+# Case study 5: MSc student thesis: A commercial internship project involving personal data collection 
 
 Author: Nicolas Dintzner
 
-## Researcher's voice
+## Project background
 
-This project involves a Masters student who will run several interviews as part of an internship project. The interviewees are employees of a company, it's business partners and  customers/prospective customers. This project aims to gather information from interviewees. The data will be used internally by the company and includes information about activities conducted by the Masters student. The data will also be used as part of the Masters student's thesis (public)
+This project involves a Master's student who will run several interviews as part of an internship project. The interviewees are employees of a company, it's business partners and  customers/prospective customers. This project aims to gather information from interviewees. The data will be used internally by the company and includes information about activities conducted by the Master's student. The data will also be used as part of the Masters student's thesis which will be published publicly. 
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
 - A collection of interviews conducted as part of the company's activities
 - Notes and summary documents (transcripts) - _Will there also be recordings? _
 
-### Ethics perspective
+### Ethics
 
 - Informed consent from interviewees will be required.
 
@@ -31,13 +31,13 @@ _Do we need to include what will happen to any personal data that is collected? 
 
 ### Data storage
 
-Data is stored internally by the company. 
+Data is stored internally by the company. _Should we include reason(s) for why?_
 
 ### Legal 
 
-- GDPR responsibility ?
+- GDPR responsibility ? _needs completing_
 
-## Advice (process)
+## Advice (process) _needs completing_ 
 
 - ... 
 - ... 

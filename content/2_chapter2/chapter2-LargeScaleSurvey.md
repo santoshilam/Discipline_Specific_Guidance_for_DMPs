@@ -1,8 +1,8 @@
-# Case study 2 : Large Scale Survey
+# Case study 2: Large Scale Survey
 
 Author: Nicolas Dintzner
 
-## Researcher's voice
+## Project background
 
 The research team is investigating people's preferences regarding potential public policy changes. The objective is to obtain the perspective of "the population" on specific health-related public measures. 
 
@@ -10,7 +10,7 @@ To ensure that a representative sample of the population will participate in the
 
 For this study, the population in question is the population of a single European country, in which the research team is currently located. 
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
@@ -25,13 +25,11 @@ The data is first collected, and then used in combination with a script (in R or
 
 The population is expected to be a representative sample of the whole population of the country, and as such we expect 1 to 2 thousand responses. 
 
-
-### Ethics perspective
+### Ethics 
 
 The survey results (in aggregated format) are meant to be made publicly available. It was therefore very important for the participants to be fully aware of what would happen with the expression of their preferences. 
 
 However, the survey being about preferences and not their current health status, emphasis was put on informing participants about what would happen to the provided data rather than anything else. 
-
 
 ### Privacy 
 
@@ -41,7 +39,7 @@ However, it is important to note that we do not collect "medical information" ab
 
 Because the survey is being run by a 3rd party, it is important to lay out which data will be transfered from the company to the research team and vice-versa. 
 
-### Data sharing
+### Data storage and sharing
 
 <!---
 Comment: some case studies focus on internal data sharing during research, others on data sharing afterwards. Maybe good to differentiate and mention both? I tried to do this below with my edits.
@@ -51,7 +49,7 @@ During the project, it was decided to limit the data sharing to the bare minumum
 
 The survey results (in aggregated format) are meant to be made publicly available after the research is complete.
 
-## Solutions & advice
+## Solutions and advice
 
 ### Data storage
 The data should be stored within the research institution as to limit data leaks. 

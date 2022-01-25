@@ -2,7 +2,7 @@
 
 Author: Nicolas Dintzner 
 
-## Researcher's voice
+## Project background
 
 A master student is doing an internship within a large consultancy company. The function held by the student involves a number of meetings with employees of that company, as well as meeting with prospective customers, or members of partner organizations. 
 
@@ -12,13 +12,13 @@ The student mostly participates in meetings organized by his company supervisors
 
 <!---Here it would be also nice to mention the aim of this research, the research question of the student.-->
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
 This study involves collecting interview and panel group information. This may involve audio/video recording, but in this case only meeting notes, minutes, and summaries are produced from the meeting. The data does not need to contain personal information, but the student will have to keep lists of names of the persons he/she talked to during the research. <!---Well such interviews will also include the job title and the affiliation of the interviewees and these are personal information as well. I would mention this.-->
 
-### Ethics perspective
+### Ethics 
 
 Because the collected information will be in some format made publicly available, the participants should be fully aware that their contribution will be made public. 
 However, because everything happens in a professional environment, there are no particular worries regarding the vulnerability of the participants.
@@ -31,7 +31,7 @@ The student is supervised internally, and the company's supervisors will have ac
 
 The anonymity of the participants, promised by the MS student, may be challenging to achieve. The student must pay attention to how he refers to the different participants of the meetings. The company in which he does his internship will be shared in his thesis, and as such, having this information might facilitate identifying the meeting participants. 
 
-### Data sharing
+### Data sharing _are there any storage implications?_
 
 In this instance, it was decided that all personal data collection was to be performed within the company. The student would share anonymized summaries of the meeting notes with their university supervisors, hence limiting personal data transfer. 
 
