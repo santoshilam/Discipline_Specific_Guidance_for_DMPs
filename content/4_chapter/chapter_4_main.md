@@ -2,7 +2,7 @@
 
 Author: Nicolas Dintzner 
 
-## Researcher's voice
+## Project background
 
 A master student is doing an internship within a large consultancy company. The function held by the student involves a number of meetings with employees of that company, as well as meeting with prospective customers, or members of partner organizations. 
 
@@ -10,13 +10,13 @@ The master thesis the student is working on is tightly linked to his professiona
 
 The student mostly participates in meetings organized by his company supervisors. He may organize additional ones, to gather more specific information from participants. 
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
 This study involves collecting interview and panel group information. This may involve recording, but in this case, only meeting notes, minutes, and summaries are produced from the meeting. The data does not need to contain personal information, but the student will have to keep lists of names and person he/she talked to during the research. 
 
-### Ethics perspective
+### Ethics 
 
 Because the collected information will be, in some format, be made publicly available, the participants should be fully aware that their contribution will be made public. 
 However, because everything happens in a profesisional environment, there are no particular worries regarding the vulnerability of the participants.
@@ -29,7 +29,7 @@ The student is supervised internally, and the company's supervisors will have ac
 
 The anonimity of the participants, promised by the MS student, may be challenging to reach. The student must pay attention to how he refers to the different participants of the meetings. The company in which he does his internship will be known, and as such, it facilitate re-identifications of the meeting participants. 
 
-### Data sharing
+### Data sharing _are there any storage implications?_
 
 In this instance, it was decide that all personal data collected was to be performed within the company. The student would share anonymized summaries of meeting with their university supervisors, hence limiting personal data transfer. 
 
