@@ -2,16 +2,14 @@
 
 Author: Judith Brands and Qian Zhang
 
-## Researcher's voice
+## Project background
 
 This project involves a researcher working at an UMC exploring tracer uptake in patients with cancer (retrospective)
 This project will generate: 
   - quantitative parameters on scans 
   - tracer outcome
 
-
-## Data perspective
-
+## Research data management considerations
 
 ### Data collection
 
@@ -22,8 +20,7 @@ In this project, the research team expects to collect the following types of dat
   - Patient characteristics
   - Imaging data
 
-
-### Ethics perspective
+### Ethics 
 
 According to the Wet medischp-wetenschappelijke onderzoek met mensen act (WMO), medical research involving humans should be assessed by an accredited METC or a CCMO in advance (before collecting data). **_Question for Judith Brands: Could you check if this explanation is ok? Please add more info about when to choose a METC if possible_**
 
@@ -42,11 +39,11 @@ Since the researcher has double affiliation (the UMC as the first affiliation an
   - Privacy and security issues are addressed in the DMP
 
 
-### Data sharing
+### Data storage and sharing
 
   - UT
 
-## Solutions & advices
+## Solutions & advice
 
 ### Data storage
 
@@ -56,16 +53,14 @@ Since the researcher has double affiliation (the UMC as the first affiliation an
   - Audit at UT?
   - Large amount of data
 
-
 ### Legal 
 
   - Data archiving (FAIR) 
   - Double affiliation
 
-
 ## Advice (process)
 
-
+_this case study needs completing_
 
 ## Tags
 
