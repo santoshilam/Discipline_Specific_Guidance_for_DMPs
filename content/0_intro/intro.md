@@ -36,7 +36,7 @@ Data stewards, data support professionals and researchers
 We'd love to expand our collection of use cases. If you have an interesting project you'd like to add... xxx
 
 
-# Naming convention for folders and files ! 
+## Naming convention for folders and files ! 
 
 Just to avoid issues, here is how you should name your folders. BE CAREFUL about CAPITALIZATION! 
 
