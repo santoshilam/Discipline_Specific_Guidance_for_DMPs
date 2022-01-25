@@ -4,28 +4,51 @@ Author: Yan Wang
 
 ## Project background
 
-The project aims to create inclusive and resilient dwelling clusters for urban resettlement in Kathmandu (Nepal) and establish a living lab model to develop transparent and integrated methodology of analysis, planning and design. This project will 
+<!---
+I think not everyone (e.g. me!) knows what a living lab is, so a brief definition would be helpful here.
+I tried googling for one but the first one I saw said that people don't necessarily agree :)
+So I think it'd be helpful if Yan could add her definition here.
+-->
+
+The project aims to create inclusive and resilient dwelling clusters for urban resettlement in Kathmandu (Nepal) and establish a living lab model to develop transparent and integrated methodology of analysis, planning and design.
+
+<!---
+a definition could go here
+-->
+
+This project will:
 - Employ a participatory planning and design approach and survey and map social and spatial living patterns of residents from different urban conditions. 
-- Support a new MSc studio: Masters students will carry out field research to the project, as part of their study. 
-- Collaborate with practitioners: Research outcome as pilot project for local development
+
+<!--- what is meant by "MSc studio" here?-->
+
+- Support a new MSc studio: Masters students will carry out field research for the project, as part of their study. 
+- Collaborate with practitioners: The research outcome will be used as pilot project for local development
 
 ## Research data management considerations
 
 ### Data collection
 
-Various types of data is collected and processed by the research team. Please note that there may be a distinction between the data that will be used for research analysis (research data) and the one that will be for project administration. In this project, the research data includes, for instance, the terrain data (such as drone images, maps, historical land survey and neighbourhood drawings), the interview data (such as the audio recordings, notes from the researchers and the interview transcripts). The informed consent forms, despite the personal data contained, are not research data but require good protection.  
+Various types of data are collected and processed by the research team. There may be a distinction between the data that will be used for research analysis (research data) and the data that will be for project administration. In this project, the research data includes, for instance, the terrain data (such as drone images, maps, historical land survey and neighbourhood drawings) and the interview data (such as the audio recordings, notes from the researchers and the interview transcripts). The informed consent formsare not research data but, given the personal data contained, require good protection. 
+
+ <!--- I think it should be explicitly mentioned that the informed consents are an example of data used for project administration. The distinction between research and administration data is made very clearly at the beginning of the paragraph - are there any other admin datasets that need to be mentioned here?-->
 
 ### Ethics 
 
-The research team carry out their activities in a country outside the European Economic Area (EEA) and involves the local community by conducting interviews, taking drone pictures, sketching residential buildings and so on. The target population come from traditional neighborhood, slum and urban resettlement, and include different age groups. There may be a "risk" population, given the social-economic status of some groups and the age of the children and elderly people involved.
+The research team carry out their activities in a country outside the European Economic Area (EEA)
 
-Because the research takes place in a foreign country, specific arrangements must be put in place to guarantee that the interviewees can provide an ``informed'' consent - the researchers must inform the participants about the purpose and the procedure of the data processing as well as the participants' rights in language they understand. 
+<!--- Is the fact that the country is outside the EEA relevant for ethics?-->
+
+. The research team involves the local community by conducting interviews, taking drone pictures, sketching residential buildings and so on. The target population come from traditional neighborhoods, slum and urban resettlement, and include different age groups. Some of the participants may belong to "risk" populations, e.g., given the social-economic status of some groups and the age of children or elderly people involved.
+
+Because the research takes place in a foreign country, specific arrangements must be put in place to guarantee that the interviewees can provide an ``informed'' consent - the researchers must inform the participants about the purpose and the procedure of the data processing as well as the participants' rights in language they understand.
+
+<!--- I wasn't sure if what was meant here was just translations or ensuring that the language is simple enough to be comprehensible. I think both would make sense to be mentioned here :) -->
 
 It may be that participants are not able/willing to sign forms, nor provide their names. The procedure for collecting consent should be outlined and reviewed by the appropriate committee. 
 
 ### Privacy 
 
-The research team collects various types of personal data, such as the locations, household compositions, financial information and health conditions and so on. Therefore sensitive personal data will be collected and processed. The location of the community is in a country outside the EEA. The research data and outcome is shared with the local partners. Special arrangement is needed for such data transfer and protection. 
+The research team collects various types of personal data, such as the locations, household compositions, financial information and health conditions and so on. That means that sensitive personal data will be collected and processed. This research data and the outcomes of the research will be shared with the local partners. Because the location of the community is in a country outside the EEA , special arrangements are needed for the data transfer and its protection. 
 
 ### Data sharing
 
