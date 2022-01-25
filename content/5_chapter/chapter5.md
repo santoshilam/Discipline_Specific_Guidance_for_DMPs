@@ -1,4 +1,6 @@
-# Case study 5: MSc student thesis - An commercial internship project involving personal data collection (2) 
+# Case study 5: MSc student thesis - A commercial internship project involving personal data collection (2) 
+
+Author: Nicolas Dintzner
 
 ## Researcher's voice
 

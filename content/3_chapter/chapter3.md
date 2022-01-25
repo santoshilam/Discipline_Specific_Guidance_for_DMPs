@@ -1,9 +1,11 @@
 # Case study 3: Design of working/living environment 
 
+Author: Yan Wang 
+
 ## Researcher's voice
 
 This project aims to assess important elements in a combined working/living environment during the pandemic and create customized design for different user groups. This project will adopt a combined participatory approach in data collection and design of working/living environment: 
-- Collect social media images of working/living environment, online focus group / survey. 
+- Collect social media images of working/living environment, online focus group/survey. 
 - Iterative design/evaluation process of the working/living environment via participatory virtual reality (VR) experiment.
 
 ## Data perspective

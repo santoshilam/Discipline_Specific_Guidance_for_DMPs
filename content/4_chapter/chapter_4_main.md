@@ -1,5 +1,7 @@
 # Case study 4 : Master thesis work, interview in a company
 
+Author: Nicolas Dintzner 
+
 ## Researcher's voice
 
 A master student is doing an internship within a large consultancy company. The function held by the student involves a number of meetings with employees of that company, as well as meeting with prospective customers, or members of partner organizations. 

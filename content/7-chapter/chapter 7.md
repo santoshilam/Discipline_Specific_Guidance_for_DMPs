@@ -1,4 +1,7 @@
 # Case study 7: Tracer update
+
+Author: Judith Brands and Qian Zhang
+
 ## Researcher's voice
 
 This project involves a researcher working at an UMC exploring tracer uptake in patients with cancer (retrospective)

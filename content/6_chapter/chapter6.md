@@ -1,10 +1,12 @@
 # Case study 6: Living lab in metropolitan area. 
 
+Author: Yan Wang
+
 ## Researcher's voice
 
 The researcher is studying bike theft in the Netherlands. 
 
-In cooperation with a private company, the researcher wants to test a tracking system to uncover where do stolen bikes go. 
+In cooperation with a private company, the researcher wants to test a tracking system to uncover where stolen bikes go. 
 The outcome is supposed to be used by relevant stakeholders such as local government bodies, or the police forces. 
 
 The protocol involves setting trackers in 100 old bicylces and placing them in areas that are known for bike theft. Then the researchers track the movement of each bikes. 
