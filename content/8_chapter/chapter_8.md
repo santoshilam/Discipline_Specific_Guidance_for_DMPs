@@ -2,7 +2,7 @@
 
 Author: Santosh Ilamparuthi
 
-## Researcher's voice
+## Project background
 
 Research: Machine learning for cyber security
 The project aims to use machine learning to understand and predict malicious actors that try to/succeed in entering a network. For this it is important to analyze recent, representative, realistic, and massive network traffic data using machine learning.
@@ -11,7 +11,7 @@ This project will:
 - the data is used to train machine learning system to identify malicious actors
 
 
-## Data perspective
+## Research data management considerations
 
 ### Data collection
 
@@ -48,6 +48,7 @@ The data is stored only long enough for it to be processed. The data is stored o
 
 ## Solutions & advice
 The data not being shared and the short term data retention addressed most of issues. The main issue tackled was GDPR concerns and this was addressed by using **legitimate interest*  
+
 ## Advice (process)
 
 ## Tags 
