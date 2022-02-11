@@ -4,57 +4,43 @@ Author: Nicolas Dintzner
 
 ## Project background
 
-The research team is investigating people's preferences regarding potential public policy changes. The objective is to obtain the perspective of "the population" on specific health-related public measures. 
+The research team is investigating people's preferences regarding potential public policy changes. The objective is to obtain the perspective of 'the population' on specific health-related public measures. 
 
-To ensure that a representative sample of the population will participate in the survey, the research team will outsource the execution of the survey to a private company specialized in this domain. For this study, the population in question is the population of a single European country, in which the research team is currently located. 
-
-For this experiment, the research team prepares the survey, the survey company spreads the survey among its customer/users, and the answers are directly stored on TUD storage solutions.
+To ensure that a representative sample of the population will participate in the survey, the research team will outsource the execution of the survey to a private company specialised in this domain. The population in question is from a single European country in which the research team is located. For this study, the research team prepares the survey and the company disseminates it on their behalf. 
 
 ## Research data management considerations
 
 ### Data collection
 
-The data is collected through a survey, with a section regarding the demographic profile of the respondents. 
-All questions are preferences, using a scale system, such as: on a scale of 1 to 5, to what degree do you agree with the following statement: "a statement". 
-The demographic information collected are: 
-- education
-- income range
-- age range
+The suvey responses are a representative sample of the whole country, and the research team expects between 1000 and 2000 responses. To collect data on the preferences of survey repondents a scale system is used, such as: 'On a scale of 1 to 5, to what extent do you agree with the following statement...'
 
-While this does constitute personal data, the set of information collected is generic enough as not to allow for re-identification of participants (especially considering the population size).
+The data collected via the survey comprises a section regarding the demographic profile of the respondents. The demographic information collected are: 
+- Education
+- Income range
+- Age range
 
-The data is first collected, and then used in combination with a script (in R or python) to obtain descriptive statistics. 
-
-The population is expected to be a representative sample of the whole population of the country, and as such we expect between 1.000 and 2.000 answers.
+The survey data is used in combination with a script (in R or Python) to obtain descriptive statistics. 
 
 ### Ethics 
 
-The survey results (in aggregated format) are meant to be made publicly available. It was therefore very important for the participants to be fully aware of what would happen with the expression of their preferences. 
+Informed consent is required from respondents who participate in the survey. Respondents are made aware that the survey results will be made pubicly available in an aggregated format upon completion of the research. It is important to note that respondents were not asked about their state of health but were asked about their preferences regarding health-related public measures which is deemed less sensitive. _is this correct, Nico? Should we revise?_
 
-It is important to note that the survey did not ask people about their current state of health (beyond something very generic and imprecise). As such, despite tackling a health related social issue, the questionaire itself does not collect "medical data" from participants. For this reason, the main ethical concern is informing properly the participants as to what will be done with the provided data. 
+### Privacy  
 
-### Privacy 
-
-Due to the high number of respondents involved in the survey, and the limited demographic information being collected, the privacy of the participants was not considered to be at risk. 
-
-Similarly to the ethical concerns, there are no additional privacy requirements - since we do not collect "medical data" from participants. 
-
-As part of the "normal" setup for such survey, the survey tool as well as the collected data will reside within the university's network - as to ensure sufficient data security. Beyond this, no additional requirements had to be satisfied.
+The survey responses contain personal data relating to the demographic profile of respondents, however, this data does not allow for re-identification of respondents. Despite the high number of survey respondents, due to the limited demographic information being collected the privacy of respondents is not considered to be at risk.
 
 ### Data storage and sharing
 
-During the project, it was decided to limit the data sharing to the bare minumum: no data collected from the survey should be shared between the survey company and the researchers. The survey company should not have access to the results of the participants, but may see the questionaire itself. 
-
-Within the research teams, all researchers need access to the full answerset and question set. 
-
-The survey results (in aggregated format) are meant to be made publicly available after the research is complete.
+They survey tool and responses reside within institutional storage to ensure data security. The raw survey data is not shared externally but only accessed by the research team. The company disseminating the survey can only view the survey questions and not the responses. Only the aggregated survey data is made publicly avaialble upon completion of the research.  
 
 ## Solutions and advice
 
 ### Data storage
-The data should be stored within the research institution as to limit data leaks. Any storage approved by the research institution would be suitable (as the data is not "particularly" sensitive). In this instance, the research team opted for a cloud solution approved by the research team.
 
-The researchers have access to an internal tool, approved by the local privacy and ethics team - and this tool is to be used. 
+- The survey tool should be approved by the institutional privacy and ethics team.
+- A secure storage location should be accessible by the research team (e.g. an institutional cloud storage solution).
+- Informed consent forms may only be accessed by members of the research team.
+- Personal data should not be shared beyond the research team; only aggregated data should be shared.
 
 ### Legal 
 
