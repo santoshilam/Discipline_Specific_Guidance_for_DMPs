@@ -41,7 +41,12 @@ For some institutions, the use of 3rd party material from social network can be 
 
 ### Privacy 
 
-Personal data is not the core focus on this experiment, but some will be collected anyway. Basic privacy requirements must be met to guarantee that the little personal data collected during the project is stored in a secure storage location. 
+During this study, participants remain anonymous. The only personal data collection that occurs is accidental - the research goal does not require such information.
+
+Nonetheless, specific attention must be given to audio recording of interviews and focus groups, as well as the storage of informed consent forms which does contain personally identifiable information of the participants.
+
+Basic institutional privacy guidelines must be observed.
+
 
 ### Data sharing
 
@@ -60,11 +65,12 @@ For this project, any instutitonally approved storage for personal data is suffi
 
 However, it is recommended that research separate, within this storage solution, the personal data collected to organize the experiment and the personal data that they wish to use in publication (as to ensure appropriate consent and copyrights). 
 
+
 ### Legal 
 
-Legal advice will be sought out to guarantee that data collected from social media can be used for research publication. Unless the research team is very familiar with such processes, advice from the institution privacy/legal team may be required. 
+Legal advice will be sought out to guarantee that data collected from social media can be used for research publication. Unless the research team is very familiar with such processes, advice from the institution privacy/legal team is required. 
 
-The designs that are gathered from social media, as well as those produced during the experiment will be subject to copyrights. To ensure proper reuse of existsing content as well as legal protection for the created content, advice from the copyright team may be required here.  
+The designs that are gathered from social media, as well as those produced during the experiment will be subject to copyrights. To ensure proper reuse of existsing content as well as legal protection for the created content, advice from the copyright team is required here.  
 
 ## Advice (process)
 
