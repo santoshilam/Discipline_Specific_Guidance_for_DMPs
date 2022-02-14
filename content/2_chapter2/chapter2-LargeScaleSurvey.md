@@ -23,7 +23,7 @@ The survey data is used in combination with a script (in R or Python) to obtain 
 
 ### Ethics 
 
-Informed consent is required from respondents who participate in the survey. Respondents are made aware that the survey results will be made pubicly available in an aggregated format upon completion of the research. It is important to note that respondents were not asked about their state of health but were asked about their preferences regarding health-related public measures which is deemed less sensitive. _is this correct, Nico? Should we revise?_
+Informed consent is required from respondents who participate in the survey. Respondents are made aware that the survey results will be made pubicly available in an aggregated format upon completion of the research. It is important to note that respondents were not asked about their state of health but were asked about their preferences regarding health-related public measures which is deemed less sensitive.
 
 ### Privacy  
 
