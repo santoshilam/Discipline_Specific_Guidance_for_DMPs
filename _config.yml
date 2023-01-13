@@ -1,13 +1,13 @@
 #######################################################################################
 # Book settings
-title: Data Stewards' Use Cases
-author: "4TU.ResearchData Community"
-copyright: "2021"
+title: Discipline Specific Guidance for DMPs
+author: "Discipline Specific Guidance for DMPs - RDA WG"
+copyright: "2023"
 
 #######################################################################################
 # Launch button settings
 repository: 
-    url: https://github.com/NZR/DS-BOK
+    url: https://github.com/santoshilam/Discipline_Specific_Guidance_for_DMPs
 
 #######################################################################################
 # Execution settings
