@@ -1,4 +1,11 @@
 # Discipline Specific Guidance for DMPs
+
+This repository is the home of the guidance documents for data management plas that were created and can be added to by the community for the various disciplines as they come. The initial output was created by the [Discipline Specific Guidance for DMPs WG](https://www.rd-alliance.org/groups/discipline-specific-guidance-data-management-plans-wg "RDA Working Group page")
+
+
+
+
+
 h/t Nico and Jose for the worflow and design of the book. Apart from the actual content, the generation of the jupyter book is based on a fork of https://github.com/NZR/DS-BOK
 
 
