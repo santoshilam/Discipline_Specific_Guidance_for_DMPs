@@ -1,5 +1,5 @@
 # Discipline Specific Guidance for DMPs
-h/t Nico and Jose for the worflow and design of the book
+h/t Nico and Jose for the worflow and design of the book. Apart from the actual content the rest of the book is based on a fork of https://github.com/NZR/DS-BOK
 
 # Pre-requisites
 
