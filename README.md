@@ -2,7 +2,7 @@
 
 This repository is the home of the discipline specific guidance documents for data management plans, that were created and can be added to by the community for various disciplines. The initial output was created by the [Discipline Specific Guidance for DMPs WG](https://www.rd-alliance.org/groups/discipline-specific-guidance-data-management-plans-wg "RDA Working Group page"). It is the intention that the guidance will be archived with a DOI in Zenodo while the Jupyterbook will be accessible [here](https://santoshilam.github.io/Discipline_Specific_Guidance_for_DMPs/). 
 
-*h/t Nico and Jose for the worflow and design of the book. Apart from the actual content, the generation of the jupyter book is based on a fork of https://github.com/NZR/DS-BOK
+_h/t Nico and Jose for the worflow and design of the book. Apart from the actual content, the generation of the jupyter book is based on a fork of https://github.com/NZR/DS-BOK_
 
 
 Instructions on how to work with the JupyterBook (from the repo linked above)
