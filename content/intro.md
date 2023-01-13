@@ -28,7 +28,7 @@ Contribute to this book by adding guidelines for a new discipline or improve the
   
 ## How was this book created? 
   
-This book was created by the members of Discipline Specific Guidance for DMPs WG from the RDA. A survey was conduceted among researchers at all levels along with members of reserach support to obtain a broad idea about the landscape of RDM among researchers. The initial guidelines were created by the members of the working groupt based on the input from community memebers from different research groups.
+This book was created by the members of the Discipline Specific Guidance for DMPs WG from the RDA. A survey was conduceted among researchers at all levels along with members of reserach support to obtain a broad idea about the landscape of RDM among researchers. The initial guidelines were created by the members of the working groupt based on the input from community memebers from different research groups.
   
 ## How to contribute!
   
