@@ -1,4 +1,5 @@
-# Use case book project
+# Discipline Specific Guidance for DMPs
+h/t Nico and Jose for the worflow and design of the book
 
 # Pre-requisites
 
