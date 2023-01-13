@@ -1,6 +1,8 @@
 # Discipline Specific Guidance for DMPs
-h/t Nico and Jose for the worflow and design of the book. Apart from the actual content the rest of the book is based on a fork of https://github.com/NZR/DS-BOK
+h/t Nico and Jose for the worflow and design of the book. Apart from the actual content, the generation of the jupyter book is based on a fork of https://github.com/NZR/DS-BOK
 
+
+Instructions on how to work with the JupyterBook (from the repo linked above)
 # Pre-requisites
 
 Despite trying to keep things simple, we will still be relying on several Python packages to build the book from our files... 
