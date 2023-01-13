@@ -1,6 +1,6 @@
 # Discipline Specific Guidance for DMPs
 
-This repository is the home of the guidance documents for data management plas that were created and can be added to by the community for the various disciplines as they come. The initial output was created by the [Discipline Specific Guidance for DMPs WG](https://www.rd-alliance.org/groups/discipline-specific-guidance-data-management-plans-wg "RDA Working Group page"). It is the intention that the guidance will be archived with a DOI in Zenodo while Jupyterbook will be accessible [here](https://santoshilam.github.io/Discipline_Specific_Guidance_for_DMPs/). 
+This repository is the home of the guidance documents for data management plas that were created and can be added to by the community for the various disciplines as they come. The initial output was created by the [Discipline Specific Guidance for DMPs WG](https://www.rd-alliance.org/groups/discipline-specific-guidance-data-management-plans-wg "RDA Working Group page"). It is the intention that the guidance will be archived with a DOI in Zenodo while the Jupyterbook will be accessible [here](https://santoshilam.github.io/Discipline_Specific_Guidance_for_DMPs/). 
 
 
 
