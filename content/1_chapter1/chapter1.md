@@ -1,6 +1,6 @@
 # Case study 1: A living lab in Katmandu
 
-Author: Yan Wang 
+Author: Yan Wang --Santosh
 
 ## Project background
 
