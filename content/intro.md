@@ -1,44 +1,38 @@
 # Introduction
 
-Welcome to the Data Steward Use Cases compedium. This document was created to capture the experiences and knowledge the data stewards working in several Dutch university. We selected rather common situations faced by researchers during their work, making explicit the data-related challenges, as to highlight what constitute "problems" and how to address them. We hope that this document will be of use to researchers, when preparing their projects, and data stewards in-training, as to get ready to what is out there. 
-
+Welcome to the Discipline Specific Guidance for data management plans(DMPs) compendium. This was created as part of the output of the RDA working group of the same name. While guidances for some disciplines were created during the periond of the working group the goal here is to create a collection through the contributions of reseracers and research support staff belonging to different disciplines. 
 
 ## What is this book about? 
 
-This book provides a collection of disciplinary research projects from various faculties and departments within 4TU partner organisation; Delft University of Technology, Eindhoven University of Technology and the University of Twente. The case study were selected on the basis of their frequency of appearance in the research projects suported by the 4TU data steward community. If a case is described in here, it happens in real life too! 
+In this book you will find the template used for gathering the guidelines for different disciplines along with the already curated guidelines for some disciplines. The disciplines are broadly categorized into four groups,
+- Life Sciences
+- Natural Sciences
+- Humanities and Social Scienced
+- Engineering Sciences
+
+The goal is that, over time, the different disciplines would have very specific guidelines on how to complete a Data Management Plan. This would in turn improve tha value associated with those DMPs and contribute towards better RDM.
 
 ## Who is this book for? 
 
-Data stewards, data support professionals and researchers 
+Researchers, Data Stewards, Research Software Engineers, Data Managers etc. 
 
-- Facilitate peer-to-peer learning among data stewards through the collection of unique and unusual (non-standard!) use cases. 
+- Improve the relevance of DMPs for researchers across different disciplines. 
+- Utilizing a standard template, minimizes fragmentation, while tailored guidelines still provide aprropriate context specific responses. 
 - Identify similarities and differences in research data management practice across diverse research disciplines 
-- Will allow data stewards to provide advice in a more comprehensive manner (rather than an over-simplified overview?) 
-- Can be reused/modified in an educational context to inform students about various aspects of RDM
-- Can be combined with an RDM checklist 
-- Can be used to form the basis of guidance for data stewards and researchers.
 
-## Why read this book? 
-  
-There are 2 main ways of reading this book: for education purposes, and for a specific case. 
 
-If you are interested in the data management in research projects in general, feel free to start at Use Case 1 and read along. 
-
-However, if you are interested in a specific case that you will be facing in the near future, we recommend that you use the "search feature" of the online book, or use the table of content to find which case could be the most related to your situation. The use cases described in this book should give you a fair view on what challenges you may face. For each use case, we hope to provide a complete perspective on what needs to be accounted for.
-  
 ## How can you use this book? 
-  <Note by Nico: given what I've written above, this section seems redundent... I'm not sure I can do "why" and "how" separately. Shall we merge those 2?> 
-- Can we suggest how the case studies should be navigated and read? 
-- Could we include an RDM checklist at the end? 
-- How could the book be used in an educational setting? 
+
+Use the relevant guidelines when creating a Data Management Plan. Add these guidelines to institution specific guidelines to provide comprehensive support to researchers. 
+Contribute to this book by adding guidelines for a new discipline or improve the guidelines for an existing one. 
   
 ## How was this book created? 
   
-This book was collaboratively written by the data stewards of the 4TU Community, using the Git Pages tools!
+This book was created by the members of Discipline Specific Guidance for DMPs WG from the RDA. A survey was conduceted among researchers at all levels along with members of reserach support to obtain a broad idea about the landscape of RDM among researchers. The initial guidelines were created by the members of the working groupt based on the input from community memebers from different research groups.
   
 ## How to contribute!
   
-We'd love to expand our collection of use cases. If you have an interesting project you'd like to add... xxx
+The goal is to have the community in academia and industry to actively contribute to the guidelines to that the it stays relevant and provides the most pertinent help to those creating their DMPs. Please refer to the README file in the github repo on how to contribute to this resource. If you are not familiar with using git, the links on the readme will allow you to contribute by filling in the template, so that members of the community can upadte the book.  
 
 
 # Notes for authors - how to edit MD files and such!
