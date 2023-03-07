@@ -1,10 +1,10 @@
-Guidance for DMPs in Chemistry
+# Guidance for DMPs in Chemistry
 
 Guidance for researchers and support
-GENERAL INFORMATION
+## GENERAL INFORMATION
 
 
-DATA DESCRIPTION AND COLLECTION OR RE-USE OF EXISTING DATA
+## DATA DESCRIPTION AND COLLECTION OR RE-USE OF EXISTING DATA
 
 How will new data be collected or produced and/or how will existing data be re-used?
 - chemistry/catalysis: lab experiments on given equipment under a set of parameters
@@ -15,7 +15,7 @@ What data (for example the kind, formats, and volumes), will be collected or pro
 - catalysis:  a material with characterization (synthesis); or a performance test result obtained under a set of conditions (static or changing over time in a predetermined pattern)
 
 
-DOCUMENTATION AND DATA QUALITY
+## DOCUMENTATION AND DATA QUALITY
 
 What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany the data?
 - Use of ELN in chemistry - chemotion, eLabFTW documentation in ELN
@@ -28,7 +28,7 @@ What metadata and documentation (for example the methodology of data collection 
 What data quality control measures will be used?
 - 
 
-STORAGE AND BACKUP DURING THE RESEARCH PROCESS
+## STORAGE AND BACKUP DURING THE RESEARCH PROCESS
 How will data and metadata be stored and backed up during the research?
 - 
 
@@ -36,7 +36,7 @@ How will data security and protection of sensitive data be taken care of during 
 - Data security is coming up in chemistry with industry collaboration. Normally there is no personal data in chemistry. If chemists are working with any kind of personal data, it is coming anonymized.  
 
 
-LEGAL AND ETHICAL REQUIREMENTS, CODES OF CONDUCT
+## LEGAL AND ETHICAL REQUIREMENTS, CODES OF CONDUCT
 
 If personal data are processed, how will compliance with legislation on personal data and on security be ensured?
 - 
@@ -48,7 +48,7 @@ What ethical issues and codes of conduct are there, and how will they be taken i
 
 - 
 
-DATA SHARING AND LONG-TERM PRESERVATION
+## DATA SHARING AND LONG-TERM PRESERVATION
 
 How and when will data be shared? Are there possible restrictions to data sharing or embargo
 reasons?
@@ -76,7 +76,7 @@ How will the application of a unique and persistent identifier (such as a Digita
 
 
 
-DATA MANAGEMENT RESPONSIBILITIES AND RESOURCES
+## DATA MANAGEMENT RESPONSIBILITIES AND RESOURCES
 
 Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
 • 
