@@ -1,7 +1,5 @@
 # Guidance for DMPs in Chemistry
 
-Guidance for researchers and support
-
 ## GENERAL INFORMATION
 This guidance is intended to assist researchers in Chemistry with creating effective and compliant data management plans (DMPs). The information provided is based on the collective input from participants with expertise in chemistry during the guidance wrtiting sessions.
 
