@@ -1,12 +1,12 @@
-# Guidance for DMPs in Natural Sciences
+# Guidance for DMPs - Template
 
 ## General information to the discipline guidance
 
-This guidance is intended to assist researchers in the natural sciences with creating effective and compliant data management plans (DMPs). The information provided is based on a survey of best practices and common requirements in the field.
+This guidance template is intended to assist researchers in the different fields with creating a guidace document that can help with creating an effective and compliant data management plans (DMPs). The template is based on the Science Europe DMP template.
 
 ## Data Description and Collection or Re-use of Existing Data
 
-<span style="color:blue">How will new data be collected or produced and/or how will existing data be re-used?</span>
+_How will new data be collected or produced and/or how will existing data be re-used?_
 -
 -
 -
@@ -52,29 +52,29 @@ _What ethical issues and codes of conduct are there, and how will they be taken 
 -
 
 ## Data Sharing and Long-term Preservation
-How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?
+_How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?_
 -
 -
 -
-How will data for preservation be selected, and where data will be preserved long-term (for example a data repository or archive)?
+_How will data for preservation be selected, and where data will be preserved long-term (for example a data repository or archive)?_
 -
 -
 -
-What methods or software tools are needed to access and use data?
+_What methods or software tools are needed to access and use data?_
 -
 -
 -
-How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each data set be ensured?
+_How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each data set be ensured?_
 -
 -
 -
 
 ## Data Management Responsibilities and Resources
-Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
+_Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?_
 -
 -
 -
-What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?
+_What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?_
 -
 -
 -
