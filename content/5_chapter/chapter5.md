@@ -69,13 +69,10 @@ _How will data for preservation be selected, and where data will be preserved lo
 -for very large datasets (ie, data that relies on images) curate the data that is shared for practical reasons (eg, difficulty of uploading 40TB of data). As a baseline, consider uploading the raw data needed for an independent researcher, in your field, to replicate your analyses from your raw data.
 
 _What methods or software tools are needed to access and use data?_
--
--
--
+
+
 _How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each data set be ensured?_
--
--
--
+
 
 ## Data Management Responsibilities and Resources
 
@@ -84,7 +81,5 @@ _Who (for example role, position, and institution) will be responsible for data 
 -usually defaults to the PI. Other involved staff may include a lab data manager
 
 _What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?_
--
--
--
+
 
