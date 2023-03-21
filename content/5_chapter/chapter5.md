@@ -26,20 +26,20 @@ _What metadata and documentation (for example the methodology of data collection
 -NCBI Bioportal (directory of ontologies) [Welcome to the NCBO BioPortal | NCBO BioPortal (bioontology.org)](https://bioportal.bioontology.org/)
 
 _What data quality control measures will be used?_
--
+
 -
 -
 
 ## Storage and Backup during the Research Process
 
 _How will data and metadata be stored and backed up during the research?_
+
 -
--
--
+
 _How will data security and protection of sensitive data be taken care of during the research?_
+
 -
--
--
+
 
 ## Legal and Ethical Requirements, Codes of Conduct
 
