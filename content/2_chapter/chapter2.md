@@ -1,11 +1,13 @@
 # Guidance for DMPs in Chemistry
 
 ## GENERAL INFORMATION
+
 This guidance is intended to assist researchers in Chemistry with creating effective and compliant data management plans (DMPs). The information provided is based on the collective input from participants with expertise in chemistry during the guidance wrtiting sessions.
 
 ## DATA DESCRIPTION AND COLLECTION OR RE-USE OF EXISTING DATA
 
-### How will new data be collected or produced and/or how will existing data be re-used?
+_How will new data be collected or produced and/or how will existing data be re-used?_
+
 - chemistry/catalysis: lab experiments on given equipment under a set of parameters
 
 ### What data (for example the kind, formats, and volumes), will be collected or produced?
