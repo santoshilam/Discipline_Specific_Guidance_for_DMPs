@@ -6,7 +6,7 @@ This guidance is intended to assist researchers in the natural sciences with cre
 
 ## Data Description and Collection or Re-use of Existing Data
 
-How will new data be collected or produced and/or how will existing data be re-used?
+<span style="color:blue">How will new data be collected or produced and/or how will existing data be re-used?</span>
 -
 -
 -
