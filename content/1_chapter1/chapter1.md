@@ -1,11 +1,13 @@
 
 # Guidance for DMPs - Template
 
-## General information to the discipline guidance </br>
+## General information to the discipline guidance
 
 This guidance template is intended to assist researchers in the different fields with creating a guidace document that can help with creating an effective and compliant data management plans (DMPs). The template is based on the Science Europe DMP template.
 
-## Data Description and Collection or Re-use of Existing Data </br>
+There are different section in the template with multiple questions in each section. Neither all the sections nor all the quesions in a given section might be relevant for all the disciplines.
+
+## Data Description and Collection or Re-use of Existing Data
 
 _How will new data be collected or produced and/or how will existing data be re-used?_
 -
