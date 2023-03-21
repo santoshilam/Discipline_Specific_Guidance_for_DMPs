@@ -41,11 +41,11 @@ _How will data security and protection of sensitive data be taken care of during
 ## LEGAL AND ETHICAL REQUIREMENTS, CODES OF CONDUCT
 
 _If personal data are processed, how will compliance with legislation on personal data and on security be ensured?_
-- 
+
 _How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?_
-- 
+
 _What ethical issues and codes of conduct are there, and how will they be taken into account?_
-- 
+
 
 ## DATA SHARING AND LONG-TERM PRESERVATION
 
