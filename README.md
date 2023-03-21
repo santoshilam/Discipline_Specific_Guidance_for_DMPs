@@ -6,6 +6,12 @@ _h/t Nico and Jose for the worflow and design of the book. Apart from the actual
 
 
 Instructions on how to work with the JupyterBook (from the repo linked above)
+
+# How to contribute
+
+Since this DMP guidance resource is developed with the intention that it will be maintained by the community and that researchers in any discpline and from anywhere can contribute. The most direct way to add to this guidane is to submit a pull request which will be reviewed and then approved. The chapter1.md file contains the template, which can be used to create the guidance for a new discipline. If you would like to submit an change to an existing guidance document, that too can be submitted as a pull request.
+
+
 # Pre-requisites
 
 Despite trying to keep things simple, we will still be relying on several Python packages to build the book from our files... 
