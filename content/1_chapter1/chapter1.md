@@ -1,7 +1,7 @@
 
 # Guidance for DMPs - Template
 
-## General information to the discipline guidance
+## General information to the discipline guidance </br>
 
 This guidance template is intended to assist researchers in the different fields with creating a guidace document that can help with creating an effective and compliant data management plans (DMPs). The template is based on the Science Europe DMP template.
 
