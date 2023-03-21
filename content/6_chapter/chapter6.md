@@ -3,7 +3,7 @@
 
 ## General information to the discipline guidance
 
-This guidance template is intended to assist researchers in the different fields with creating a guidace document that can help with creating an effective and compliant data management plans (DMPs). The template is based on the Science Europe DMP template.
+This guidance document is intended to assist researchers in the social sciences with creating an effective and compliant data management plans (DMPs). The template is based on the Science Europe DMP template. While the title refers to the social scinces, this can be expanded by adding additional guidacne documents that address various areas within the social sciences. 
 
 There are different section in the template with multiple questions in each section. Neither all the sections nor all the quesions in a given section might be relevant for all the disciplines.
 
