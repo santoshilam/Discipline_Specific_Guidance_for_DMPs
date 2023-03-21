@@ -17,36 +17,36 @@ _What data (for example the kind, formats, and volumes), will be collected or pr
 
 ## Documentation and Data Quality
 
-What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany the data?
+_What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany the data?_
 - Use of ELN in chemistry
 - 
 - 
-What data quality control measures will be used?
+_What data quality control measures will be used?_
 -
 -
 -
 
 ## Storage and Backup during the Research Process
-How will data and metadata be stored and backed up during the research?
+_How will data and metadata be stored and backed up during the research?_
 -
 -
 -
-How will data security and protection of sensitive data be taken care of during the research?
+_How will data security and protection of sensitive data be taken care of during the research?_
 -
 -
 -
 
 ## Legal and Ethical Requirements, Codes of Conduct
 
-If personal data are processed, how will compliance with legislation on personal data and on security be ensured?
+_If personal data are processed, how will compliance with legislation on personal data and on security be ensured?_
 -
 -
 -
-How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
+_How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?_
 -
 -
 -
-What ethical issues and codes of conduct are there, and how will they be taken into account?
+_What ethical issues and codes of conduct are there, and how will they be taken into account?_
 -
 -
 -
