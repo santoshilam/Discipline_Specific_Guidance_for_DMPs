@@ -10,13 +10,15 @@ _How will new data be collected or produced and/or how will existing data be re-
 
 - chemistry/catalysis: lab experiments on given equipment under a set of parameters
 
-### What data (for example the kind, formats, and volumes), will be collected or produced?
+_What data (for example the kind, formats, and volumes), will be collected or produced?_
+
 - observation data - In chemistry, observational data are mainly generated during experiments. Typical observations during reactions are e.g. color changes, gas formation, temperature fluctuations, ...
 - catalysis:  a material with characterization (synthesis); or a performance test result obtained under a set of conditions (static or changing over time in a predetermined pattern)
 
 ## DOCUMENTATION AND DATA QUALITY
 
-### What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany the data?
+_What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany the data?_
+
 - Use of ELN in chemistry - chemotion, eLabFTW documentation in ELN
 - Documentation has played a crucial role in chemistry for centuries. Observations, important steps in experiments, etc. are noted in a laboratory notebook - paper or electronic (ELN). 
 - The paper lab book is mostly sorted chronologically according to the sequence of experiments. ELNs on the other hand offer the possibility to search for experiments. For example you have the option to search for a Grignard reaction. In this case, it is  possible to compare the yields and optimize the reaction conditions.
@@ -28,37 +30,44 @@ _How will new data be collected or produced and/or how will existing data be re-
 
 ## STORAGE AND BACKUP DURING THE RESEARCH PROCESS
 
-### How will data and metadata be stored and backed up during the research?
+_How will data and metadata be stored and backed up during the research?_
+
 - 
-### How will data security and protection of sensitive data be taken care of during the research?
+
+_How will data security and protection of sensitive data be taken care of during the research?_
+
 - Data security is coming up in chemistry with industry collaboration. Normally there is no personal data in chemistry. If chemists are working with any kind of personal data, it is coming anonymized.  
 
 ## LEGAL AND ETHICAL REQUIREMENTS, CODES OF CONDUCT
 
-### If personal data are processed, how will compliance with legislation on personal data and on security be ensured?
+_If personal data are processed, how will compliance with legislation on personal data and on security be ensured?_
 - 
-### How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
+_How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?_
 - 
-### What ethical issues and codes of conduct are there, and how will they be taken into account?
+_What ethical issues and codes of conduct are there, and how will they be taken into account?_
 - 
 
 ## DATA SHARING AND LONG-TERM PRESERVATION
 
-### How and when will data be shared? Are there possible restrictions to data sharing or embargo
-reasons?
+_How and when will data be shared? Are there possible restrictions to data sharing or embargo
+reasons?_
+
 - Data will be published sometimes as raw or processed data. 
 - Often data is published as supporting information, but this is not a data publication. In chemistry it is a long tradition to publish data as SI, so it is hard to get chemists to rethink.
 - Restrictions and embargo periods could come up with data which are generated in an industry collaboration. 
 
-### How will data for preservation be selected, and where data will be preserved long-term (for example a data repository or archive)?
+_How will data for preservation be selected, and where data will be preserved long-term (for example a data repository or archive)?_
+
 - Old and famous databases and repositories are the Cambridge Structural Database (CSD) and Crystallography Open Database (COD)
 - Newer ones are: chemotion or RADAR4Chem
 
-### What methods or software tools are needed to access and use data?
+_What methods or software tools are needed to access and use data?_
+
 - In chemistry there are different methods and software being used. A lot of software is still proprietary. NFDI4Chem is providing a knowledge base with examples of different formats that the data can be accessed without any problems in the future. 
 - The consortium is also giving the hint: Save it in the original format and in an open format. It is still working on converters from proprietary to open formats where no open format exist.
 
-### How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each data set be ensured? 
+_How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each data set be ensured?_
+
 - DOIs are given to the data set when it is uploaded to chemotion repository or RADAR4Chem.
 - CCD has its own identifier.
 - SMILES and InCHIs are structural codes as identifiers
@@ -66,8 +75,10 @@ reasons?
 
 ## DATA MANAGEMENT RESPONSIBILITIES AND RESOURCES
 
-### Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
+_Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?_
+
 - 
-### What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?
+
+_What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?_
 - 
 
