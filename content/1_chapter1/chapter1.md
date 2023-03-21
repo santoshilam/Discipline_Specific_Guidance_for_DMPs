@@ -18,7 +18,7 @@ _What data (for example the kind, formats, and volumes), will be collected or pr
 ## Documentation and Data Quality
 
 _What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany the data?_
-- Use of ELN in chemistry
+- 
 - 
 - 
 _What data quality control measures will be used?_
