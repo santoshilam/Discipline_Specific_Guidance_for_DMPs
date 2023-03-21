@@ -11,7 +11,7 @@ Instructions on how to work with the JupyterBook (from the repo linked above)
 
 This DMP guidance resource is developed with the intention that it will be maintained by the community and that researchers in any discpline and from anywhere can contribute. The most direct way to add to this guidane is to submit a pull request. This will be reviewed and then approved. The chapter1.md file in the contents folder contains the template, which can be used to create the guidance for a new discipline. If you would like to submit an change to an existing guidance document, that too can be submitted as a pull request.
 
-Alternatively you can use the [Google Doc to add your guidance](https://docs.google.com/document/d/1ziobIRQrrXcf6mMMLJAHeKMEdfnkRDf3VnhBxHSB2iI/edit?usp=sharing). To do this, please download the google doc as word document 
+Alternatively you can use the [Google form to add your guidance](https://forms.gle/CxNsq79cqBYCmaF9A). To do this, please download the google doc as word document 
 
 # Pre-requisites
 
