@@ -1,3 +1,4 @@
+
 # Guidance for DMPs - Template
 
 ## General information to the discipline guidance
@@ -27,6 +28,7 @@ _What data quality control measures will be used?_
 -
 
 ## Storage and Backup during the Research Process
+
 _How will data and metadata be stored and backed up during the research?_
 -
 -
@@ -52,6 +54,7 @@ _What ethical issues and codes of conduct are there, and how will they be taken 
 -
 
 ## Data Sharing and Long-term Preservation
+
 _How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?_
 -
 -
@@ -70,6 +73,7 @@ _How will the application of a unique and persistent identifier (such as a Digit
 -
 
 ## Data Management Responsibilities and Resources
+
 _Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?_
 -
 -
